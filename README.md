@@ -4,7 +4,7 @@
 1. Clone the project
 
 ```
-git clone https://github.com/singhsanket143/ShopCart-Ecommerce-Backend.git
+git clone https://github.com/Ovais-Maker/ShopCart-Ecommerce-Backend.git
 ```
 
 2. Move into the directory of the downloaded project
